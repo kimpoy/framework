@@ -1,5 +1,5 @@
 <?php
-#require_once "../init.php";
+require_once __FILE__ . "/init.php";
 
 var_dump(__FILE__);
 
