@@ -9,14 +9,13 @@ class Router
         // *make it as associative array
 
         $path = [
-            '/' => '../controllers/path/sign_in.path.php',
-            '/sign_up' => '../controllers/path/sign_up.path.php',
+            '/' => 'controllers/path/sign_in.path.php',
+            '/sign_up' => 'controllers/path/sign_up.path.php',
         ];
 
         if (array_key_exists($uri, $path)) {
             #var_dump($path[$uri]);
             require $path[$uri];
-            var_dump($uri);
         } else {
             echo "not found!";
         }

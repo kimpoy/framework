@@ -11,7 +11,7 @@
       href="includes//bootstrap5//dist//css/bootstrap.min.css"
     /> -->
 
-  <link rel="stylesheet" href="resources/main.css" />
+  <link rel="stylesheet" href="public/resources/main.css" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet" />

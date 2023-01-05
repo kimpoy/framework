@@ -1,2 +1,2 @@
 <?php
-require "../views/sign_in.php";
+require "views/sign_in.php";

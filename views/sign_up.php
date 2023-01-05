@@ -1,5 +1,5 @@
 <?php
-require '../views/partials/head.partials.php';
+require 'views/partials/head.partials.php';
 ?>
 <div class="container-fluid m-0 p-0 w-100 d-flex justify-content-between align-items-center">
     <!-- ! sign up -->
@@ -23,10 +23,10 @@ require '../views/partials/head.partials.php';
 
     <!-- ! wallpaper -->
     <div class="w-50" style="height: 100vh">
-        <img class="img-fluid h-100 w-100" src="../resources/images/login_wallpaper.jpg" alt="" />
+        <img class="img-fluid h-100 w-100" src="public/resources/images/login_wallpaper.jpg" alt="" />
     </div>
 </div>
 
 <?php
-require '../views/partials/footer.partials.php';
+require 'views/partials/footer.partials.php';
 ?>

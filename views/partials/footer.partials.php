@@ -1,4 +1,4 @@
-<script src="resources/bootstrap5/dist/js/bootstrap.bundle.min.js"></script>
+<script src="public/resources/bootstrap5/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
 </html>
